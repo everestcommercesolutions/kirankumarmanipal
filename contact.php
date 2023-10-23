@@ -7,7 +7,7 @@
 $from = '<everestcommercesolutions@gmail.com>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = '<adhishaktimpl@gmail.com>';
+$sendTo = '<avink91@gmail.com>';
 
 // subject of the email
 $subject = 'JYOTHISHYA AND VAASTU CENTER WEBSITE CONTACT US QUERY!';
