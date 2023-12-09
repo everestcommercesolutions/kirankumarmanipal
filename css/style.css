@@ -8769,3 +8769,19 @@ div.top:before {
     color: #bf7f38;
     text-shadow: 0 0 2px #000000, 0 0 5px #bf7f38;
 }
+
+@media (max-width: 767px) and (min-width: 300px)
+{
+	.mantra-atrologer p 
+	{
+	    float: left;
+	    width: 100%;
+	    margin-bottom: 15px;
+	    margin-top: 15px;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 12px;
+	    line-height: 35px;
+	    text-align: justify;
+	    color: #000;
+	}
+}
