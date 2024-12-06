@@ -33,4 +33,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.aroora-mantradevathe.com/sitemap.xml
+Sitemap: https://www.shrikshetraarooru.org/sitemap.xml

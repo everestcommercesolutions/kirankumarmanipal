@@ -10,7 +10,7 @@ $from = '<everestcommercesolutions@gmail.com>';
 $sendTo = '<adhishaktimpl@gmail.com>';
 
 // subject of the email
-$subject = 'AROORA MANTRADEVATHA SANNIDHANAM | SRI SAHASRALINGESHWARA | SRI DURGAPARAMESHWARI | AGNI GULIGA SANNIDHANA WEBSITE CONTACT US QUERY!';
+$subject = 'SHRI KSHETRA AROORU | ADHI SHAKTHI CHAMUNDESHWARI DEVI SANNIDHI | MANTRA DEVATHA SANNIDHANAM | AGNI GULIGA SANNIDHI WEBSITE CONTACT US QUERY!';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
@@ -34,7 +34,7 @@ try
 
     if(count($_POST) == 0) throw new \Exception('Form is empty');
             
-    $emailText = "You have a new message from AROORA MANTRADEVATHA SANNIDHANAM | SRI SAHASRALINGESHWARA | SRI DURGAPARAMESHWARI | AGNI GULIGA SANNIDHANA website contact us form.\n=====================================================\n";
+    $emailText = "You have a new message from SHRI KSHETRA AROORU | ADHI SHAKTHI CHAMUNDESHWARI DEVI SANNIDHI | MANTRA DEVATHA SANNIDHANAM | AGNI GULIGA SANNIDHI website contact us form.\n=====================================================\n";
 
     foreach ($_POST as $key => $value) {
         // If the field exists in the $fields array, include it in the email 
