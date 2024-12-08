@@ -8794,3 +8794,15 @@ div.top:before {
 		color: #fff;
 	}
 }
+
+@media (max-width: 1150px) and (min-width: 700px) 
+{
+	.mob-visit 
+	{
+		margin-left: 0px!important;
+		margin-bottom: 3px!important;
+		text-transform: uppercase!important;
+		font-size: 12px!important;
+		color: #fff;
+	}
+}
